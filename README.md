@@ -1,11 +1,11 @@
-# Simple Neural Network 
+# Simple Neural Network for MNIST Dataset
 
 * Simple 3 Layer Neural Network in Python by using only basic library (Numpy).
 * Sample multiclass using MNIST data provided by http://yann.lecun.com/exdb/mnist/
 
 ## Getting Started
 ```
-git clone https://github.com/ghuw/neural-net`
+git clone https://github.com/ghuw/simple-neural-net
 ```
 
 ### Prerequisites
@@ -20,6 +20,16 @@ sudo apt-get update && sudo apt-get install python3.6
 * Numpy
 ```
 pip3 install numpy
+```
+
+* Dill
+```
+pip3 install dill
+```
+
+* Matplotlib
+```
+pip3 install matplotlib
 ```
 
 ## Usage
