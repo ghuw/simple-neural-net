@@ -47,7 +47,7 @@ python3 main.py
 
 ## Author
 
-* **Teguh Budianto** - [ghuw](https://github.com/ghuw)
+* [ghuw](https://github.com/ghuw)
 
 ## License
 
